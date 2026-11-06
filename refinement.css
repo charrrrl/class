@@ -9,3 +9,9 @@
 .cover-card h1{color:#f6f6e9}.scene-welcome h1,.scene-heading h1{color:inherit}.scene-welcome{color:#f7f7e9}.profile-view .profile-title{box-shadow:none}
 .scene-welcome,.scene-welcome h1{color:#294735}.scene-welcome h1{max-width:850px;margin-left:auto;margin-right:auto}.scene-heading h1{color:#294735}.scene-heading h1,.scene-heading>span{border-radius:6px}.scene-link span{border-radius:5px;box-shadow:0 2px 8px #263e2220}.scene-welcome>p:first-child{color:#647c55}
 @media(max-width:650px){.scene-welcome{padding-left:25px;padding-right:25px}.scene-welcome h1{max-width:300px;font-size:26px}}
+
+.visitor-count{margin:.75rem 0 1.1rem;font-size:.95rem;color:#42583a}
+.visitor-count strong{font-variant-numeric:tabular-nums}
+#posting-status{margin:.45rem 0;color:#42583a}
+#posting-window{display:flex;align-items:center;gap:.5rem;flex-wrap:wrap;margin:.5rem 0}
+#posting-window input{width:6em}
