@@ -1,0 +1,5 @@
+GSAP 3.15.0
+Copyright 2008-2026 GreenSock. All rights reserved.
+Distributed under the Standard No Charge GSAP License.
+https://gsap.com/community/standard-license/
+Source: official npm package gsap@3.15.0. Only dist/gsap.min.js is included, with its original notices retained.
